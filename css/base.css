@@ -1,0 +1,17 @@
+body 
+{
+	font-family: Monospace;
+	font-weight: bold;
+	margin: 0px;
+	overflow: hidden;
+}
+
+#container
+{
+	font-size: 200%;
+	background-color: #bf3728;
+	color: white;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
